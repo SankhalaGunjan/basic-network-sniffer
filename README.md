@@ -8,7 +8,7 @@ Python-based packet sniffer using Scapy.
 - Show protocol and payload
 
 ## Run
-sudo python3 sniffer.py
+sudo python3 sniffer.sy
 
 ## Learning Outcome
 Network traffic analysis.
